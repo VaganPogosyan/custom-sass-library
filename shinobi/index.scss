@@ -1,8 +1,11 @@
 // variables & functions
+@import "functions";
 @import "variables";
 
 // base & layout
 @import "base";
+@import "breakpoints";
+@import "grid";
 
 // colors
 @import "colors";
@@ -13,3 +16,4 @@
 @import "components/button";
 
 // utilities
+@import "utilities"
